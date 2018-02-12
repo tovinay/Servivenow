@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Github Table" max_length="40" name="x_63967_github_table" type="collection"/>
+</database>

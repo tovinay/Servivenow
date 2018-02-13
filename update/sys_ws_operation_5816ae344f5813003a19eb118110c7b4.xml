@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>POST</http_method>
+        <name>Somthing New</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+    // implement resource here
+
+})(request, response);]]></operation_script>
+        <operation_uri>/api/x_63967_github/test_api</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-13 04:42:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5816ae344f5813003a19eb118110c7b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Somthing New</sys_name>
+        <sys_package display_value="Github" source="x_63967_github">35d180b04fd013003a19eb118110c7d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Github">35d180b04fd013003a19eb118110c7d0</sys_scope>
+        <sys_update_name>sys_ws_operation_5816ae344f5813003a19eb118110c7b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-13 04:42:18</sys_updated_on>
+        <web_service_definition display_value="Test API">460348f44fd013003a19eb118110c7b2</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>

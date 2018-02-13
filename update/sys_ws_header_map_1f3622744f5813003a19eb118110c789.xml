@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ws_header_map">
+    <sys_ws_header_map action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ws_header_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-13 04:43:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1f3622744f5813003a19eb118110c789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>474662744f5813003a19eb118110c754</sys_name>
+        <sys_package display_value="Github" source="x_63967_github">35d180b04fd013003a19eb118110c7d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Github">35d180b04fd013003a19eb118110c7d0</sys_scope>
+        <sys_update_name>sys_ws_header_map_1f3622744f5813003a19eb118110c789</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-13 04:43:09</sys_updated_on>
+        <web_service_header display_value="API Test">474662744f5813003a19eb118110c754</web_service_header>
+        <web_service_operation display_value="Somthing New">5816ae344f5813003a19eb118110c7b4</web_service_operation>
+    </sys_ws_header_map>
+</record_update>

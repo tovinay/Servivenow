@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-12 16:44:13</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>7a9204f44fd013003a19eb118110c773</sys_id>
+        <sys_id>f4350c784fd013003a19eb118110c7e8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63967_github_table</sys_name>
         <sys_package display_value="Github" source="x_63967_github">35d180b04fd013003a19eb118110c7d0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Github">35d180b04fd013003a19eb118110c7d0</sys_scope>
-        <sys_update_name>ua_table_licensing_config_7a9204f44fd013003a19eb118110c773</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_f4350c784fd013003a19eb118110c7e8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-02-12 16:44:13</sys_updated_on>
     </ua_table_licensing_config>
